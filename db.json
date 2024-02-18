@@ -1,0 +1,28 @@
+{
+  "todos": {
+    "8f5d06fe-a269-4bf5-810c-9b148dc8b2f2": {
+      "id": "8f5d06fe-a269-4bf5-810c-9b148dc8b2f2",
+      "title": "Title 0",
+      "description": "Description 0",
+      "completed": false,
+      "dateCreated": 1708160825360,
+      "dateUpdated": 1708160825360
+    },
+    "4a033253-0ac5-4363-80f8-0be2d5e7dd6c": {
+      "id": "4a033253-0ac5-4363-80f8-0be2d5e7dd6c",
+      "title": "Title 1",
+      "description": "Description 1",
+      "completed": false,
+      "dateCreated": 1708161044597,
+      "dateUpdated": 1708161044597
+    },
+    "df0f1aa5-8d7c-4522-a2ad-7fab6017d5f9": {
+      "id": "df0f1aa5-8d7c-4522-a2ad-7fab6017d5f9",
+      "title": "Title 2",
+      "description": "Description 2",
+      "completed": false,
+      "dateCreated": 1708161055436,
+      "dateUpdated": 1708161055436
+    }
+  }
+}
